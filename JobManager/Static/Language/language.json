@@ -1,0 +1,34 @@
+﻿{
+  "usernameAlreadyInUse": {
+    "de": "Der Benutzername {0} ist bereits vergeben. Bitte wählen Sie einen anderen.",
+    "en": "The username {0} is already in use. Please choose another one"
+  },
+  "emailAlreadyInUse": {
+    "de": "Die Email-Addresse {0} wird bereits verwendet. Bitte wählen Sie eine andere.",
+    "en": "The email adress {0} is already in use. Please choose another one."
+  },
+  "onlyEmployersCanCreateJobOffers": {
+    "de": "Nur Arbeitgeber können neue Job Angebote erstellen. Bitte passen Sie Ihren Account Typ an um diese Funktionalität zu verwenden.",
+    "en": "Only employers can create new job offers. Please change your account type to use this functionality."
+  },
+  "theCategoriesWithIdsHaveNotBeenFound": {
+    "de": "Die Kategorien mit den Ids [{0}] konnten nicht gefunden werden.",
+    "en": "The categories with the ids [{0}] couldn't be found.'"
+  },
+  "onlyAdministratorsAndModeratorsCanCreateCategory": {
+    "de": "Nur Benutzer mit der Administratoren oder Moderatoren Berechtigung können Kategorien erstellen.",
+    "en": "Only administrator and moderator users can create categories."
+  },
+  "categoryWithNameExistsAlready": {
+    "de": "Die Kategorie mit dem Namen {0} existiert bereits.",
+    "en": "The category with the name {0} exists already."
+  },
+  "categoryWithNameDoesntExist": {
+    "de": "Die Kategorie mit dem Namen {0} wurde nicht gefunden.",
+    "en": "The category with the name {0} hasn't been found."
+  },
+  "invalidEmailOrPassword": {
+    "de": "Ungültige Email-Addresse oder Passwort.",
+    "en": "Invalid email address or password"
+  }
+}
